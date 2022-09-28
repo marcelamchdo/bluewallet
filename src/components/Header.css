@@ -1,0 +1,16 @@
+.walletHeader {
+  align-items: center;
+  background-color: #16263e;
+  color: white;
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.loginInfo {
+  display: flex;
+  justify-content: space-evenly;
+  width: 500px;
+}

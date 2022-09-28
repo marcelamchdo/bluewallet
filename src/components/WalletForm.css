@@ -1,0 +1,31 @@
+.formWallet {
+  align-items: center;
+  background-color: #0b1527;
+  color: white;
+  display: flex;
+  height: 60px;
+  justify-content: space-around;
+}
+
+input {
+  border: none;
+  border-radius: 8px;
+  height: 25px;
+  margin-left: 6px;
+}
+
+select {
+  border: none;
+  border-radius: 8px;
+  height: 30px;
+  margin-left: 6px;
+}
+
+button {
+  background-color: rgb(171, 171, 171);
+  border: none;
+  border-radius: 5px;
+  color: #0b1527;
+  height: 30px;
+}
+

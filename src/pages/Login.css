@@ -1,0 +1,39 @@
+.login {
+  align-content: center;
+  align-items: center;
+  background-color: #16263e;
+  display: flex;
+  flex-direction: column;
+  height: 1000px;
+  justify-content: center;
+  width: 100%;
+}
+
+.imgWallet {
+  width: 300px;
+}
+
+.loginBox {
+  align-content: center;
+  align-items: center;
+  background-color: rgb(156, 156, 156);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  justify-content: center;
+}
+
+.inputForm {
+  background-color: rgba(232, 232, 232, 0.872);
+  border: rgb(205, 205, 205) 1px solid;
+  border-radius: 5px;
+  height: 30px;
+  width: 250px;
+
+}
+
+.buttonForm {
+  height: 30px;
+  width: 70px;
+}

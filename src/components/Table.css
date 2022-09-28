@@ -1,0 +1,29 @@
+.table {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.tableColumns {
+  align-items: center;
+  background-color: rgba(128, 128, 128, 0.262);
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+}
+
+th {
+  width: 150px;
+}
+
+td {
+  width: 150px;
+}
+
+.tableLines {
+  align-items: center;
+  background-color: rgb(184, 201, 214);
+  display: flex;
+  height: 80px;
+  justify-content: space-evenly;
+}
