@@ -29,14 +29,14 @@
 
 # Requisitos
 
-### <strong>Página de Login
+### <details><strong>Página de Login</strong></details>
 
 
  1. Crie uma página inicial de login
 
 ---
 
-### <strong>Página da Carteira
+### <strong>Página da Carteira</strong>
 
 2. Crie um header para a página de carteira
 
@@ -48,7 +48,7 @@
 
 ---
 
-### <strong>Tabela de Gastos
+### <strong>Tabela de Gastos</strong>
 
 6. Desenvolva uma tabela com os gastos
 
