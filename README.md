@@ -5,7 +5,7 @@
 <a hef="https://bluewallet.vercel.app/" target="_blank">Clique aqui</a> para acessar o projeto
 
 
-### 💻 <summary><strong>Sobre</strong></summary>
+###<strong>💻 Sobre</strong>
 Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, nesse projeto foi desenvolvido uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
 
   - Adicionar, remover e editar um gasto;
@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, n
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
 
 
-###📔 <summary><strong>Habilidades</strong></summary>
+###<strong>📔 Habilidades</strong>
 
 - Criar um _store_ Redux em aplicações React
 
