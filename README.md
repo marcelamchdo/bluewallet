@@ -40,7 +40,6 @@ Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, n
 
  1. Crie uma página inicial de login
 
-</br>
 
 ### <strong>Página da Carteira</strong>
 
@@ -52,7 +51,6 @@ Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, n
 
 5. Desenvolva testes para atingir 60% de cobertura total da aplicação
 
-</br>
 
 ### <strong>Tabela de Gastos</strong>
 
