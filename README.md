@@ -3,7 +3,7 @@
 ![wallet](https://user-images.githubusercontent.com/94760136/192841426-1b537e80-6991-4383-a364-c8e8a0a1a427.gif)
 
 <a href="https://bluewallet.vercel.app/">Clique aqui</a> para acessar o projeto
-
+---
 
 ### <strong>💻 Sobre</strong>
 Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, nesse projeto foi desenvolvido uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, n
   - Visualizar uma tabelas com seus gastos;
 
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
-
+---
 
 ### <strong>📔 Habilidades</strong>
 
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, n
 - Conectar Redux aos componentes React
 
 - Criar _actions_ assíncronas na sua aplicação React que faz uso de Redux.
-
+---
 <br/>
 
 # Desenvolvidos
