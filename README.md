@@ -6,13 +6,22 @@
 ---
 
 ### <strong>💻 Sobre</strong>
-Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, nesse projeto foi desenvolvido uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
+Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe durante o módulo de front-end, nesse projeto foi desenvolvido uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
 
   - Adicionar, remover e editar um gasto;
 
   - Visualizar uma tabelas com seus gastos;
 
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
+---
+
+### <strong>🖱️ Tecnologias Utilizadas</strong>
+* HTML5
+* CSS
+* JavaScript
+* React.js
+* React Router
+* Redux
 ---
 
 ### <strong>📔 Habilidades</strong>
@@ -29,8 +38,69 @@ Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, n
 
 - Criar _actions_ assíncronas na sua aplicação React que faz uso de Redux.
 ---
+</br>
+
+### <strong>📃 Documentação</strong>
+
+  <details>
+    <summary>Instalação e execução</summary>
+    <br />
+
+- Faça o fork do repositório:
+  Tutorial [AQUI](https://github.com/UNIVALI-LITE/Portugol-Studio/wiki/Fazendo-um-Fork-do-reposit%C3%B3rio)
+- Abra seu terminal e navegue até a pasta onde preferir alocar o projeto.
+
+- Clone o repositório:
+
+  ```sh 
+  git clone git@github.com:marcelamchdo/trybewallet.git
+  ```
+
+- Apos ter o repositório clonado em sua maquina, execute este comando para acessar a parta do projeto:
+
+  ```sh
+    cd wallet
+  ```
+
+- Dentro da pasta do projeto, execute o comando abaixo para instalar as dependências do projeto:
+
+  Caso utilize o npm:
+
+  ```sh
+    npm install
+  ```
+
+  Caso utilize o yarn:
+
+  ```sh
+    yarn install
+  ```
+
+- Dentro da pasta do projeto, execute o comando abaixo para iniciar o servidor do projeto:
+
+      Caso utilize o npm:
+
+      ```sh
+        npm start
+      ```
+
+      Caso utilize o yarn:
+
+      ```sh
+        yarn start
+      ```
+
+  O aplicativo sera executado em modo de desenvolvimento.
+  Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navegador.
+
+    </details>
 
 </br>
+
+---
+
+</br>
+
 
 ### <strong>Desenvolvidos</strong>
 
