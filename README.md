@@ -1,8 +1,10 @@
-# Repositório do projeto Trybewallet!
+### Bluewallet!
+---
+![wallet](https://user-images.githubusercontent.com/94760136/192841426-1b537e80-6991-4383-a364-c8e8a0a1a427.gif)
 
 
-  ### <summary><strong>Sobre</strong></summary>
-  Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, nesse projeto foi desenvolvido uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
+### <summary><strong>Sobre</strong></summary>
+Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, nesse projeto foi desenvolvido uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de:
 
   - Adicionar, remover e editar um gasto;
 
@@ -11,7 +13,7 @@
   - Visualizar o total de gastos convertidos para uma moeda de escolha;
 
 
- ### <summary><strong>Habilidades</strong></summary>
+### <summary><strong>Habilidades</strong></summary>
 
 - Criar um _store_ Redux em aplicações React
 
