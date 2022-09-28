@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, n
 - Criar _actions_ assíncronas na sua aplicação React que faz uso de Redux.
 ---
 
-# Desenvolvidos
+### <strong>Desenvolvidos</strong>
 
 ### <strong>Página de Login</strong>
 
