@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { connect } from 'react-redux';
 import PropTypes from 'prop-types';
 import { Redirect } from 'react-router-dom';
-import trybeWallet from './imgs/trybewallet.png';
+import bluewallet from './imgs/bluewallet.png';
 import { logEmail } from '../redux/actions';
 
 // requisito 01: helpers
@@ -32,7 +32,7 @@ function Login({ loginEmail }) {
       {redirect && <Redirect to="/carteira" />}
       <form className="loginBox">
 
-        <img className="imgWallet" alt="imgWallet" src={ trybeWallet } />
+        <img className="imgWallet" alt="imgWallet" src={ bluewallet } />
 
         <input
           type="email"

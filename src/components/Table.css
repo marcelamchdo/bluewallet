@@ -14,10 +14,14 @@
 
 th {
   width: 150px;
+  text-align: center;
 }
 
 td {
-  width: 150px;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  width: 1000px;
 }
 
 .tableLines {
@@ -26,4 +30,6 @@ td {
   display: flex;
   height: 80px;
   justify-content: space-evenly;
+  text-align: center;
+
 }

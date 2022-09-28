@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
-import walletWhite from './imgs/trybewallet-white.png';
+import bluewalletWhite from './imgs/bluewallet-white.png';
 import '../components/Header.css';
 import WalletForm from '../components/WalletForm';
 import '../components/WalletForm.css';
@@ -11,7 +11,7 @@ function Wallet() {
   return (
     <div>
       <div className="walletHeader">
-        <img className="imgWallet" alt="imgWallet" src={ walletWhite } />
+        <img className="imgWallet" alt="imgWallet" src={ bluewalletWhite } />
         <Header />
       </div>
       <div>
