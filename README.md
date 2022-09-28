@@ -29,8 +29,7 @@
 
 # Requisitos
 
-### <details><strong>Página de Login</strong></details>
-
+### <strong>Página de Login</strong>
 
  1. Crie uma página inicial de login
 
